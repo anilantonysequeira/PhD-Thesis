@@ -16,4 +16,5 @@ This folder contains:
 4. Abstract in Polish and in English 
 5. English language test certificate 
 6. Area of discipline examination results (Polish)
+7. Announcement of PhD defense (Polish)
  
